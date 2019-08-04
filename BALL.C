@@ -2,6 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<stdio.h>
+//our first project
 char p[10000];
 int t;
 void check(int a,int h,int t)
