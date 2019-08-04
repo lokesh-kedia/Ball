@@ -38,6 +38,7 @@ setfillstyle(SOLID_FILL,GREEN);
 rectangle(-50,424,xmax+10,460);
 floodfill(-49,423,GREEN);
 delay(150);
+ 
 while(a>=-300){
 ckb();
 while(!kbhit()){
